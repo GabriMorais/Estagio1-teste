@@ -1,0 +1,15 @@
+body{
+    
+        background-image:url(../assets/background3.jpg);
+        background-size: 600px;
+     
+}
+#namejogo{
+    font-size: 100px;
+    text-align: center;
+    color:whitesmoke;
+}
+#iniciar{
+    text-align: center;
+    list-style-image: none;
+}
